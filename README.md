@@ -1,1 +1,1 @@
-# counter
+# Проект счётчик на ReactJS
